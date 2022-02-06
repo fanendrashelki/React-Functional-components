@@ -1,0 +1,22 @@
+.bg-events {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../images/6.jpg");
+    background-repeat: none;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.img-slider {
+    padding: 20px;
+    width: 600px;
+    height: 400px;
+}
+.text-slider{
+    padding: 20px;
+
+}
+@media only screen and (max-width: 768px) {
+    .img-slider{
+        width: 100%;
+    }
+}

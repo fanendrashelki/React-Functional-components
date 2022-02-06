@@ -1,0 +1,13 @@
+.bg-gallary{
+    background: rgb(29, 28, 28); 
+
+}
+.gallery-item{
+    padding: 0px;
+    padding-bottom: 25px;
+    transform: scale(1);
+    transition: transform 0.5s;
+}
+.gallery-item:hover{
+    transform: scale(1.1);
+}

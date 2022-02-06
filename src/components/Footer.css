@@ -1,0 +1,18 @@
+.bg-footer{
+    background:#130e10 ;
+}
+.bg-footer p{
+    padding: 10px;
+}
+.fab{
+    color: #F2AA4CFF;
+    padding: 10px;
+    margin-left: 10px;
+}
+.fab:hover{
+    color: wheat;
+   
+    border: 1px solid white;
+    border-radius: 50%;
+    
+}

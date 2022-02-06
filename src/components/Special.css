@@ -1,0 +1,15 @@
+
+.bg-Special{
+    background:#130e10 ;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #130e10 !important;
+    background-color: #F2AA4CFF;
+}
+.line{
+    border-right: 2px solid #F2AA4CFF;
+}
+.display-none{
+    display: none;
+
+}
